@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
