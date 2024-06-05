@@ -5,11 +5,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthony-el-mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-el-mir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthony-el-mir" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-el-mir" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <!-- Row 1 -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -40,6 +42,7 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
+  <!-- Row 2 -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
